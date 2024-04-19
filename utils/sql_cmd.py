@@ -2,7 +2,7 @@
 '''
 @file: sql_cmd.py
 @author: yuping
-@time: 2023/1/8/008 15:02
+@time: 2023/9/11/008 15:02
 '''
 
 
