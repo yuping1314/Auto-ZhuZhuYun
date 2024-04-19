@@ -2,7 +2,7 @@
 '''
 @file: read_config.py
 @author: yuping
-@time: 2023/1/7/007 21:40
+@time: 2023/9/11/007 21:40
 '''
 
 import configparser
