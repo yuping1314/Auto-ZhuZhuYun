@@ -7,7 +7,7 @@
     
 ## 结构树  
 E:\SENHU\PYCHARM    
-PyCharm_ZhuZhuYun    
+Auto_ZhuZhuYun    
     │  start_zhuzhuyun.py  *主程序*      
     ├─config  *配置*    
     │      config.ini  #数据库及路径等     
