@@ -66,9 +66,6 @@ class ClnDB(Cln):
         super(ClnDB, self).__init__(df)
     def clean_data(self):
         self._clean_same_data()
-
-
-
         self._save_db()
 
 
