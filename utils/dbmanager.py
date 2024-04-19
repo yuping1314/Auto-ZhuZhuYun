@@ -2,7 +2,7 @@
 '''
 @file: dbmanager.py
 @author: yuping
-@time: 2023/1/8/008 15:22
+@time: 2023/9/11/008 15:22
 '''
 '''
 管理数据库的pandas读取和executemany写入
