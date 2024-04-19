@@ -2,7 +2,7 @@
 '''
 @file: cleaning.py
 @author: yuping
-@time: 2023/1/7/007 13:28
+@time: 2023/9/11/007 13:28
 '''
 from utils.read_config import ReadConfig
 from utils.dbmanager import DBManager
