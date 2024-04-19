@@ -8,7 +8,6 @@
 import os
 import pandas as pd
 from utils.dbmanager import DBManager
-
 from utils.read_config import ReadConfig
 import logging
 from utils.logger import logger
