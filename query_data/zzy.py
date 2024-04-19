@@ -1,8 +1,8 @@
 # encoding: utf-8
 '''
 @file: zzy.py
-@author: leo
-@time: 2022/1/10/010 13:23
+@author: yuping
+@time: 2023/7/10/010 13:23
 '''
 
 import random, time, requests
