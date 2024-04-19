@@ -6,7 +6,7 @@
 * 预揽收收前，使用猪猪云查询物流信息      
     
 ## 结构树  
-E:\SENHU\PYCHARM    
+   
 Auto_ZhuZhuYun    
     │  start_zhuzhuyun.py  *主程序*      
     ├─config  *配置*    
